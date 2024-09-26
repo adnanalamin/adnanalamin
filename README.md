@@ -2,7 +2,7 @@
 # I'm Al-Amin
 #### Full Stack Web Developer
 <div align="center">
-<img src=["https://i.ibb.co/Ph9jdhS/Full-Stack-Web-Developer.png](https://www.canva.com/design/DAGJyEbMBJU/29j-2KGAiCtycZQpvBDavg/edit?utm_content=DAGJyEbMBJU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)" align="center" style="width: 100%" />
+<img src=["https://www.canva.com/design/DAGJyEbMBJU/29j-2KGAiCtycZQpvBDavg/edit?utm_content=DAGJyEbMBJU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" align="center" style="width: 100%" />
 </div>  
 </br>
 
