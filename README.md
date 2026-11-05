@@ -1,92 +1,295 @@
-### Hi there 👋, 
-# I'm Al-Amin
-#### Full Stack Web Developer
-<div align="center">
-<img src=["https://i.ibb.co.com/D7hB5X1/Full-Stack-Web-Developer.png" align="center" style="width: 100%" />
-</div>  
-</br>
+# 👋 Hi, I'm AL AMIN ADNAN
 
-Hey Guys! My area of expertise is in Full-stack web development. I am a professional and experienced Full-stack web developer. I have more than 2 years of experience. I work on each project until the client is 100% satisfied and always try to deliver more than expected. I am friendly easy-going and passionate about what I do, so if you need Website design or development help then don't hesitate to contact me
+### 💻 Full-Stack Web Developer | MERN Stack | AI-Powered Web Development
 
-## Languages  
-<div align="center">  
-  <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="40" /></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="40" /></a>
-  <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="40" /></a>
-  <a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="40" /></a>
-  <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="40" /></a> 
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="40" /></a> 
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="40" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="40" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="40" /></a>  
-<a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="40" /></a>   
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="40" /></a>  
-<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="40" /></a>
-</div>
-<br/>
+<p align="center">
+  <img src="https://i.ibb.co.com/D7hB5X1/Full-Stack-Web-Developer.png" width="100%" alt="AL AMIN ADNAN - Full Stack Web Developer" />
+</p>
 
-## Tools  
-<div align="center">
-<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="40" /></a> 
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="40" /></a>  
-<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="40" /></a>  
-<a href="https://www.adobe.com/in/products/xd.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobexd.png" alt="Adobe XD" height="40" /></a>  
-</div> 
-<br/>
+<p align="center">
+  <a href="https://github.com/adnanalamin">
+    <img src="https://img.shields.io/github/followers/adnanalamin?label=Followers&style=for-the-badge" />
+  </a>
+  <a href="https://github.com/adnanalamin">
+    <img src="https://img.shields.io/github/stars/adnanalamin?label=Stars&style=for-the-badge" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=adnanalamin&style=for-the-badge&label=PROFILE+VIEWS" />
+</p>
 
-- 🔭 I’m currently working on Fiverr 
-- 🌱 I’m currently learning Next js 
-- 👯 I’m looking to collaborate on GitHub 
-- 💬 Ask me about Web Design & Development 
+---
 
+## 🚀 About Me
 
-## Connect with me  
-<div align="center">
-<a href="https://github.com/adnanalamin" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+I'm **AL AMIN ADNAN**, a Full-Stack Web Developer passionate about building modern, scalable, secure, and user-friendly web applications.
+
+I work mainly with the **MERN Stack** and continuously explore modern technologies, AI-powered development, SaaS architecture, and advanced web application security.
+
+I enjoy turning ideas into real-world digital products — from responsive websites and business applications to full-stack SaaS platforms.
+
+### 🎯 My Current Focus
+
+- 🔥 Full-Stack Web Development
+- ⚛️ React & Modern Frontend Development
+- 🟢 Node.js & Express.js Backend Development
+- 🍃 MongoDB & Database Architecture
+- 🤖 AI-assisted & AI-powered Web Development
+- 🔐 Secure Web Application Development
+- ☁️ Deployment & Production-ready Applications
+- 💼 Freelancing & Professional Development
+
+---
+
+# 🛠️ Tech Stack
+
+## 💻 Frontend
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,typescript,react,nextjs,tailwind,bootstrap,sass" />
+</p>
+
+## ⚙️ Backend
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
+</p>
+
+## 🧰 Tools & Technologies
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,vercel,netlify" />
+</p>
+
+## 🎨 Design Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=figma,ps,ai" />
+</p>
+
+---
+
+# 💡 What I Build
+
+### 🌐 Web Applications
+Modern, responsive and high-performance websites for businesses, organizations and individuals.
+
+### 🛒 E-Commerce Platforms
+Feature-rich e-commerce applications with product management, authentication, orders, payments and admin dashboards.
+
+### 🏢 Business Management Systems
+Custom dashboards and management systems designed for real-world business workflows.
+
+### 🚀 SaaS Applications
+Multi-feature SaaS platforms with authentication, subscriptions, dashboards, role-based access and scalable architecture.
+
+### 🤖 AI-Powered Applications
+Modern web applications enhanced with AI-powered features and automation.
+
+### 📊 Admin Dashboards
+Professional dashboards with analytics, charts, tables, filtering, search, role-based permissions and management tools.
+
+---
+
+# 🔥 Featured Projects
+
+> 🚧 More projects are being built and will be added here.
+
+### 📌 Full-Stack SaaS Platform
+A scalable SaaS application with authentication, user management, dashboards, role-based access control and modern UI.
+
+**Tech:** React • Node.js • Express.js • MongoDB
+
+---
+
+### 📌 E-Commerce Platform
+A modern full-stack e-commerce application with product management, categories, search, filters, cart, orders and admin management.
+
+**Tech:** React • Node.js • Express.js • MongoDB
+
+---
+
+### 📌 Management Dashboard
+A professional management system with user roles, analytics, CRUD operations, reports and secure authentication.
+
+**Tech:** React • Node.js • Express.js • MongoDB
+
+---
+
+# 📚 Currently Learning
+
+```text
+React & Advanced React
+        ↓
+Node.js & Express.js
+        ↓
+MongoDB & Database Design
+        ↓
+TypeScript
+        ↓
+Next.js
+        ↓
+Advanced Backend Architecture
+        ↓
+Web Security
+        ↓
+AI-Powered Development
+        ↓
+SaaS Architecture
+```
+
+---
+
+# 🧠 Development Philosophy
+
+> **Build → Break → Learn → Improve → Repeat**
+
+I believe that becoming a strong developer isn't about memorizing syntax.
+
+It's about understanding:
+
+- 🧩 Problem Solving
+- 🧠 Programming Logic
+- 🏗️ Software Architecture
+- 🔐 Security
+- ⚡ Performance
+- 📱 Responsive Design
+- 🧪 Testing
+- 📚 Continuous Learning
+
+---
+
+# 🔐 Security Mindset
+
+Security is an important part of every application I build.
+
+I focus on:
+
+- Authentication & Authorization
+- Role-Based Access Control
+- Input Validation
+- Secure API Design
+- Password Hashing
+- JWT Security
+- Rate Limiting
+- CORS Configuration
+- Environment Variables
+- Secure Database Operations
+- Error Handling
+- Protection Against Common Web Vulnerabilities
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=adnanalamin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adnanalamin&layout=compact&theme=tokyonight&hide_border=true" height="180" />
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=adnanalamin&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adnanalamin&theme=tokyo-night&hide_border=true" width="100%" />
+</p>
+
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=adnanalamin&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
+</p>
+
+---
+
+# 💼 Services
+
+If you need help with:
+
+- 🌐 Website Development
+- 💻 Full-Stack Web Application
+- ⚛️ React Development
+- 🟢 Node.js / Express.js Development
+- 🛒 E-Commerce Website
+- 📊 Admin Dashboard
+- 🚀 SaaS Application
+- 🔐 Authentication & Authorization
+- 🗄️ MongoDB Database Integration
+- 📱 Responsive Web Design
+- 🎨 UI Implementation
+
+Feel free to reach out.
+
+---
+
+# 🤝 Let's Collaborate
+
+I'm interested in collaborating on:
+
+- Open Source Projects
+- Full-Stack Applications
+- SaaS Products
+- AI-powered Web Applications
+- Business Management Systems
+- Developer Tools
+- Interesting Startup Ideas
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/adnanalamin">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="https://twitter.com/AlaminAdnan5" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+
+<a href="https://linkedin.com/in/devalaminadnan">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://dev.to/devalaminadnan" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
+
+<a href="https://www.facebook.com/programmeradnan36">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
-<a href="https://linkedin.com/in/devalaminadnan" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+
+<a href="https://twitter.com/AlaminAdnan5">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
 </a>
-<a href="https://www.facebook.com/programmeradnan36" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
 
-<br/>   
+<a href="https://dev.to/devalaminadnan">
+  <img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />
+</a>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=adnanalamin)](https://github.com/ryo-ma/github-profile-trophy)
+</p>
 
-<br/>   
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adnanalamin&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+# ⚡ Fun Fact
 
+```javascript
+while (alive) {
+    learn();
+    build();
+    solveProblems();
+    improve();
+}
+```
 
-<br/>   
+---
 
-![GitHub metrics](https://metrics.lecoq.io/adnanalamin)  
-<br/>   
+<h3 align="center">
+  💻 Code. 🚀 Build. 🧠 Learn. 🔥 Repeat.
+</h3>
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=adnanalamin)  
-
-<br/>   
-
-
-![graph](https://github-readme-activity-graph.vercel.app/graph?username=adnanalamin&bg_color=0000000&color=2980b9&line=2980b9&point=27ae60&area_color=2980b9&area=true&hide_border=true)
-
-<br/>   
-
-
-<div align="left">
-<img src="https://komarev.com/ghpvc/?username=adnanalamin&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/> 
+<p align="center">
+  <b>Thanks for visiting my profile! ⭐</b>
+</p>
