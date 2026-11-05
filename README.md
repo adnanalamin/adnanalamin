@@ -1,301 +1,365 @@
-::: {align="center"}
-`<img src="https://i.ibb.co.com/D7hB5X1/Full-Stack-Web-Developer.png" width="100%" alt="AL AMIN ADNAN — Full Stack Web Developer" />`{=html}
+ <div align="center">
 
-`<br/>`{=html}
+<!-- =============== HERO SECTION =============== -->
 
-`<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=850&height=55&lines=AL+AMIN+ADNAN;Full-Stack+Web+Developer;MERN+Stack+%7C+Modern+Web+Applications;Exploring+AI-Powered+Development;Build.+Learn.+Improve." alt="Typing animation" />`{=html}
+<img src="https://i.ibb.co.com/D7hB5X1/Full-Stack-Web-Developer.png" width="100%" alt="AL AMIN ADNAN - Full Stack Developer" />
 
-`<br/>`{=html}
+<br/>
 
-`<a href="https://github.com/adnanalamin">`{=html}`<img src="https://img.shields.io/badge/GitHub-Profile-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />`{=html}`</a>`{=html}
-`<a href="https://linkedin.com/in/devalaminadnan">`{=html}`<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />`{=html}`</a>`{=html}
-`<a href="https://www.facebook.com/programmeradnan36">`{=html}`<img src="https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />`{=html}`</a>`{=html}
-`<a href="https://dev.to/devalaminadnan">`{=html}`<img src="https://img.shields.io/badge/DEV.to-Read_Articles-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="DEV" />`{=html}`</a>`{=html}
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&height=60&lines=HI%2C+I'M+AL+AMIN+ADNAN;FULL+STACK+WEB+DEVELOPER;MERN+STACK+DEVELOPER;BUILDING+MODERN+WEB+APPLICATIONS;EXPLORING+AI-POWERED+DEVELOPMENT" alt="Typing Animation" />
 
-`<br/>`{=html}`<br/>`{=html}
+<br/><br/>
 
-`<img src="https://komarev.com/ghpvc/?username=adnanalamin&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS" alt="Profile views" />`{=html}
-:::
+<a href="https://github.com/adnanalamin">
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://linkedin.com/in/devalaminadnan">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://www.facebook.com/programmeradnan36">
+<img src="https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+<a href="https://dev.to/devalaminadnan">
+<img src="https://img.shields.io/badge/DEV.TO-000000?style=for-the-badge&logo=dev.to&logoColor=white"/>
+</a>
 
-------------------------------------------------------------------------
+<br/><br/>
 
-## ◈ ABOUT ME
+<img src="https://komarev.com/ghpvc/?username=adnanalamin&style=for-the-badge&color=00C9FF&label=PROFILE+VIEWS"/>
 
-Hi, I'm **AL AMIN ADNAN** --- a developer passionate about creating
-modern, useful, and user-friendly web experiences.
+</div>
 
-I enjoy turning ideas into practical digital products, from responsive
-interfaces to full-stack applications. My current direction is the
-**MERN stack**, modern frontend engineering, backend development, and
-AI-assisted product development.
+---
 
--   💻 Focus: Full-Stack Web Development
--   ⚛️ Frontend: React, JavaScript, TypeScript, Next.js
--   🟢 Backend: Node.js, Express.js, REST APIs
--   🍃 Database: MongoDB
--   🤖 Exploring: AI-powered applications and automation
--   🔐 Interested in: Secure architecture, clean code, and performance
--   🤝 Open to: Collaboration, interesting projects, and learning
-    opportunities
+<div align="center">
 
-> **My mindset:** Build useful things. Understand the fundamentals. Keep
-> improving.
+# 👨‍💻 ABOUT ME
 
-------------------------------------------------------------------------
+### Turning Ideas Into Digital Experiences
 
-## ◈ TECHNOLOGY ARSENAL
+</div>
 
-### Frontend
+Hi! I'm **AL AMIN ADNAN**, a passionate Full-Stack Web Developer who loves building modern, scalable, secure, and user-friendly web applications.
 
-```{=html}
-<p align="left">
-```
-`<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,sass&perline=9" alt="Frontend technologies" />`{=html}
-```{=html}
-</p>
-```
-### Backend & Database
+I enjoy transforming creative ideas into real-world digital solutions using modern technologies.
 
-```{=html}
-<p align="left">
-```
-`<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase&perline=9" alt="Backend technologies" />`{=html}
-```{=html}
-</p>
-```
-### Tools & Design
+- 💻 Focused on Full-Stack Web Development
+- ⚛️ Exploring React and Next.js
+- 🟢 Building backend applications with Node.js and Express.js
+- 🍃 Working with MongoDB and database architecture
+- 🤖 Exploring AI-powered applications
+- 🔐 Interested in application security and scalable architecture
+- 🚀 Passionate about continuous learning and problem-solving
+- 🤝 Open to collaboration and exciting opportunities
 
-```{=html}
-<p align="left">
-```
-`<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,vercel,netlify,ps,ai&perline=9" alt="Tools and design technologies" />`{=html}
-```{=html}
-</p>
-```
+<br/>
 
-------------------------------------------------------------------------
+<div align="center">
 
-## ◈ WHAT I LIKE TO BUILD
+**BUILD • CREATE • INNOVATE • IMPROVE**
 
-```{=html}
+</div>
+
+---
+
+# ⚡ TECHNOLOGY ARSENAL
+
+<div align="center">
+
+### 🎨 FRONTEND DEVELOPMENT
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,sass&perline=5" />
+
+<br/><br/>
+
+### ⚙️ BACKEND DEVELOPMENT
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase&perline=5" />
+
+<br/><br/>
+
+### 🧰 DEVELOPMENT TOOLS
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,vercel,netlify&perline=5" />
+
+<br/><br/>
+
+### 🖌️ GRAPHIC DESIGN
+
+<img src="https://skillicons.dev/icons?i=ps,ai,figma&perline=5" />
+
+</div>
+
+---
+
+# 🚀 WHAT I BUILD
+
 <table>
-```
-```{=html}
 <tr>
-```
-```{=html}
 <td width="50%">
-```
-```{=html}
-<h3>
-```
-🌐 Web Applications
-```{=html}
-</h3>
-```
-Responsive, accessible, and polished web experiences.
-```{=html}
+
+<h3 align="center">🌐 Web Development</h3>
+<p align="center">Modern, responsive and professional websites with excellent user experiences.</p>
+
 </td>
-```
-```{=html}
 <td width="50%">
-```
-```{=html}
-<h3>
-```
-🛒 E-Commerce
-```{=html}
-</h3>
-```
-Storefronts, product catalogues, carts, orders, and admin tools.
-```{=html}
+
+<h3 align="center">🛒 E-Commerce</h3>
+<p align="center">Full-featured online stores with products, cart, orders and admin management.</p>
+
 </td>
-```
-```{=html}
 </tr>
-```
-```{=html}
+
 <tr>
-```
-```{=html}
 <td width="50%">
-```
-```{=html}
-<h3>
-```
-🚀 SaaS Products
-```{=html}
-</h3>
-```
-Multi-user applications, dashboards, and subscription workflows.
-```{=html}
+
+<h3 align="center">🚀 SaaS Applications</h3>
+<p align="center">Scalable applications with authentication, user roles and subscription systems.</p>
+
 </td>
-```
-```{=html}
 <td width="50%">
-```
-```{=html}
-<h3>
-```
-📊 Admin Dashboards
-```{=html}
-</h3>
-```
-Data views, reports, search, filters, and management interfaces.
-```{=html}
+
+<h3 align="center">📊 Admin Dashboards</h3>
+<p align="center">Professional dashboards with analytics, charts, reports and management tools.</p>
+
 </td>
-```
-```{=html}
 </tr>
-```
-```{=html}
+
 <tr>
-```
-```{=html}
 <td width="50%">
-```
-```{=html}
-<h3>
-```
-🎓 Management Systems
-```{=html}
-</h3>
-```
-Practical tools for schools, teams, and organizations.
-```{=html}
+
+<h3 align="center">🎓 Management Systems</h3>
+<p align="center">Custom management software for schools, businesses and organizations.</p>
+
 </td>
-```
-```{=html}
 <td width="50%">
-```
-```{=html}
-<h3>
-```
-🤖 AI-Powered Tools
-```{=html}
-</h3>
-```
-Useful applications enhanced with AI capabilities and automation.
-```{=html}
+
+<h3 align="center">🤖 AI Applications</h3>
+<p align="center">Modern web applications enhanced with AI capabilities and automation.</p>
+
 </td>
-```
-```{=html}
 </tr>
-```
-```{=html}
 </table>
-```
 
-------------------------------------------------------------------------
+---
 
-## ◈ FEATURED WORK
+# 💎 FEATURED PROJECTS
 
-I'm building and improving full-stack projects. Visit my repositories to
-explore the latest code and experiments.
+<div align="center">
 
-::: {align="center"}
-`<a href="https://github.com/adnanalamin?tab=repositories">`{=html}
-`<img src="https://img.shields.io/badge/EXPLORE_MY_REPOSITORIES-View_Projects-38BDF8?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories" />`{=html}
-`</a>`{=html}
-:::
+### Explore My Development Work
 
-```{=html}
-<!-- Replace the sample cards below with real repository links and descriptions when ready. -->
-```
-  -----------------------------------------------------------------------
-  Project area            What it can include     Typical stack
-  ----------------------- ----------------------- -----------------------
-  E-Commerce Platform     Products, cart, orders, React · Node.js ·
-                          admin dashboard         MongoDB
+<a href="https://github.com/adnanalamin?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE_ALL_PROJECTS-00C9FF?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
 
-  SaaS Application        Accounts, roles,        MERN · REST API
-                          subscriptions,          
-                          workspace               
+</div>
 
-  School Management       Student records,        React · Express ·
-                          notices, reports        MongoDB
+<table>
+<tr>
+<td width="50%">
 
-  Business Dashboard      Analytics, CRUD,        React · Node.js
-                          search, filtering       
-  -----------------------------------------------------------------------
+### 🛒 E-Commerce Platform
 
-------------------------------------------------------------------------
+Modern shopping platform featuring product management, categories, cart, orders and admin dashboard.
 
-## ◈ GITHUB ANALYTICS
+**Technologies:** React, Node.js, Express, MongoDB
 
-::: {align="center"}
-`<img height="175" src="https://github-readme-stats.vercel.app/api?username=adnanalamin&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub statistics" />`{=html}
-`<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adnanalamin&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages" />`{=html}
-:::
+</td>
+<td width="50%">
 
-## ◈ CONTRIBUTION STREAK
+### 🚀 SaaS Platform
 
-::: {align="center"}
-`<img src="https://streak-stats.demolab.com?user=adnanalamin&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub contribution streak" />`{=html}
-:::
+Scalable multi-user application with authentication, role-based access and subscription management.
 
-## ◈ CONTRIBUTION ACTIVITY
+**Technologies:** MERN Stack, REST API
 
-::: {align="center"}
-`<img src="https://github-readme-activity-graph.vercel.app/graph?username=adnanalamin&theme=tokyo-night&hide_border=true&area=true&custom_title=AL%20AMIN%20ADNAN%20%7C%20CONTRIBUTION%20ACTIVITY" width="100%" alt="Contribution activity graph" />`{=html}
-:::
+</td>
+</tr>
+<tr>
+<td width="50%">
 
-## ◈ CONTRIBUTION SNAKE
+### 🎓 School Management System
 
-::: {align="center"}
-`<picture>`{=html}
-`<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adnanalamin/adnanalamin/output/github-contribution-grid-snake-dark.svg" />`{=html}
-`<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adnanalamin/adnanalamin/output/github-contribution-grid-snake.svg" />`{=html}
-`<img alt="Contribution snake animation" src="https://raw.githubusercontent.com/adnanalamin/adnanalamin/output/github-contribution-grid-snake.svg" width="100%" />`{=html}
-`</picture>`{=html}
-:::
+Student records, teacher management, notices, reports and administrative tools.
 
-## ◈ GITHUB TROPHIES
+**Technologies:** React, Express, MongoDB
 
-::: {align="center"}
-`<img src="https://github-profile-trophy.vercel.app/?username=adnanalamin&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6" width="100%" alt="GitHub trophies" />`{=html}
-:::
+</td>
+<td width="50%">
 
-------------------------------------------------------------------------
+### 📊 Management Dashboard
 
-## ◈ CURRENT LEARNING PATH
+Modern dashboard with analytics, charts, filtering, search and CRUD functionality.
 
--   Advanced React patterns and Next.js
--   TypeScript and maintainable frontend architecture
--   Node.js, Express.js, and REST API design
--   MongoDB schema design and data modelling
--   Authentication, authorization, and application security
--   Testing, debugging, and performance optimization
--   AI integration and SaaS architecture
+**Technologies:** React, Tailwind CSS, Node.js
 
-------------------------------------------------------------------------
+</td>
+</tr>
+</table>
 
-## ◈ ENGINEERING PRINCIPLES
+---
 
-  Principle     What it means to me
-  ------------- -------------------------------------------------
-  Clarity       Readable, understandable code
-  Security      Validate input and protect user data
-  Reliability   Handle errors and test important flows
-  Performance   Build responsive, efficient experiences
-  Growth        Learn continuously and improve through practice
+# 📊 GITHUB ANALYTICS
 
-------------------------------------------------------------------------
+<div align="center">
 
-## ◈ LET'S CONNECT
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=adnanalamin&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub Statistics"/>
 
-Have an idea, project, or opportunity? Feel free to reach out.
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adnanalamin&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
 
-::: {align="center"}
-`<a href="https://github.com/adnanalamin">`{=html}`<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />`{=html}`</a>`{=html}
-`<a href="https://linkedin.com/in/devalaminadnan">`{=html}`<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />`{=html}`</a>`{=html}
-`<a href="https://twitter.com/AlaminAdnan5">`{=html}`<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />`{=html}`</a>`{=html}
-`<a href="https://www.facebook.com/programmeradnan36">`{=html}`<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />`{=html}`</a>`{=html}
-`<a href="https://dev.to/devalaminadnan">`{=html}`<img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="DEV Community" />`{=html}`</a>`{=html}
+</div>
 
-`<br/>`{=html}`<br/>`{=html}
+---
 
-### `CODE` · `CREATE` · `LEARN` · `REPEAT`
+# 🔥 CONTRIBUTION STREAK
 
-**Thanks for stopping by. Have a great day!** ✨
-:::
+<div align="center">
+
+<img width="75%" src="https://streak-stats.demolab.com?user=adnanalamin&theme=tokyonight&hide_border=true&border_radius=15" alt="GitHub Streak"/>
+
+</div>
+
+---
+
+# 📈 CONTRIBUTION ACTIVITY
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=adnanalamin&theme=tokyo-night&hide_border=true&area=true&custom_title=AL%20AMIN%20ADNAN%20-%20CONTRIBUTION%20ACTIVITY" width="100%" alt="Contribution Graph"/>
+
+</div>
+
+---
+
+# 🐍 CONTRIBUTION SNAKE
+
+<div align="center">
+
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adnanalamin/adnanalamin/output/github-contribution-grid-snake-dark.svg"/>
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adnanalamin/adnanalamin/output/github-contribution-grid-snake.svg"/>
+<img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/adnanalamin/adnanalamin/output/github-contribution-grid-snake.svg" width="100%"/>
+</picture>
+
+</div>
+
+---
+
+# 🏆 GITHUB ACHIEVEMENTS
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=adnanalamin&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=6" width="100%" alt="GitHub Trophies"/>
+
+</div>
+
+---
+
+# 🧠 CURRENT LEARNING JOURNEY
+
+<div align="center">
+
+| Technology | Learning Focus |
+|:---:|:---|
+| ⚛️ React | Advanced React & Architecture |
+| ▲ Next.js | Full-Stack Development |
+| 🔷 TypeScript | Type Safety & Scalable Code |
+| 🟢 Node.js | Backend Architecture |
+| 🍃 MongoDB | Database Design |
+| 🔐 Security | Secure Web Applications |
+| 🤖 AI | AI Integration & Automation |
+| 🚀 SaaS | Scalable SaaS Architecture |
+
+</div>
+
+---
+
+# 🔐 DEVELOPMENT PHILOSOPHY
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/CLEAN-CODE-00C9FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SECURITY-FIRST-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/PERFORMANCE-22C55E?style=for-the-badge"/>
+
+</div>
+
+I believe great software is built with:
+
+- Clean and maintainable code
+- Secure authentication and authorization
+- Proper input validation
+- Optimized database queries
+- Responsive and accessible interfaces
+- Effective error handling
+- Testing and continuous improvement
+
+---
+
+# 💼 SERVICES
+
+- Full-Stack Web Development
+- MERN Stack Application Development
+- Responsive Website Development
+- E-Commerce Website Development
+- Admin Dashboard Development
+- SaaS Application Development
+- REST API Development
+- Database Integration
+- UI Implementation
+
+---
+
+# 🤝 LET'S COLLABORATE
+
+I'm interested in working on:
+
+- Open Source Projects
+- Full-Stack Applications
+- SaaS Products
+- AI-Powered Web Applications
+- Business Management Systems
+- Interesting Startup Ideas
+
+---
+
+# 📬 CONNECT WITH ME
+
+<div align="center">
+
+<a href="https://github.com/adnanalamin">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/devalaminadnan">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://twitter.com/AlaminAdnan5">
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+</a>
+
+<a href="https://www.facebook.com/programmeradnan36">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
+<a href="https://dev.to/devalaminadnan">
+<img src="https://img.shields.io/badge/DEV.to-000000?style=for-the-badge&logo=dev.to&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&height=45&lines=THANKS+FOR+VISITING+MY+PROFILE;LET'S+BUILD+SOMETHING+AMAZING!" alt="Thank You"/>
+
+<br/>
+
+### ⚡ CODE. CREATE. INNOVATE. REPEAT.
+
+**⭐ Thanks for visiting my GitHub profile!**
+
+</div>
